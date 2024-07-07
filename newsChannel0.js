@@ -59,7 +59,7 @@ var area = document.getElementById("area");
 //functions
 
 function linkWikipedia(){
-open("https://salmandascript.github.io/LinkWikipedia/");
+open("https://salmandascript.github.io/LinkWikipedia-/");
 }
 
 function linkChatGPT(){
