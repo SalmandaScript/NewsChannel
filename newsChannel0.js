@@ -1747,6 +1747,19 @@ $("#d122").toggle();
 }); 
 
 });
+
+//toggle full story
+$(document).ready(function() 
+{ 
+
+$("#shbtn123").click(function() 
+{ 
+
+$("#d123").toggle(); 
+
+}); 
+
+});
 /*-------CODE BREAK------*/
 
 /*function to change button behaviour main menu */
